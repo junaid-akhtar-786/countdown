@@ -1,0 +1,61 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(42, 42, 42)
+}
+
+
+.main{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial;
+    width: 400px;
+    margin: 0px auto;
+    margin-top: 12rem;
+}
+
+.second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.btnInpt{
+font-size: 28px;
+width: 70px;
+border-radius: 8px;
+background-color: black;
+color:white;
+height: 60px;
+text-align: center;
+align-items: center;
+}
+
+.invisible{
+    display: none;
+}
+
+h1{
+    border: 1px solid black;
+    padding: 5px;
+    background-color: black;
+    color:white;
+    width: 45px;
+    text-align: center;
+    
+
+}
+
+
+.btn{
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    font-size: 16px;
+    box-shadow: 2px 2px 4px white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+}
